@@ -3,3 +3,5 @@ First change in the feature B
 Second change in the feature B
 
 Third change in the feature B
+
+Quarter change in the feature B
