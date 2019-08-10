@@ -1,0 +1,7 @@
+first line for feature A
+
+second line for feature A
+
+third line for feature A
+
+quarter line for feature A
